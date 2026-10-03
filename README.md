@@ -58,6 +58,7 @@ Kod yazmayı ve görsel tasarım yapmayı aynı işin iki yüzü olarak görüyo
 | **Biga Eğitim Kurumları** | Eğitim kurumu için kurumsal kimlik yansıtan resmi web sitesi | [bigaegitimkurumlari.com](https://bigaegitimkurumlari.com) |
 | **Phylab.tr** | Fizik konularını anlatan interaktif eğitim/simülasyon platformu | [phylab.tr](https://phylab.tr) |
 | **Image Ofis** | Kurumsal baskı hizmetleri için tanıtım sitesi | [imageofis.com](https://imageofis.com) |
+| **Image Ofis** | Kurumsal baskı hizmetleri için tanıtım sitesi | [imageofis.com](https://fotokopitamir.com) |
 
 > Projelerin canlı önizlemeleri ve daha fazla detay için [portfolyoma](https://ardaballikaya.com) göz atabilirsin.
 
